@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>todo on Chem CaFe</title>
-    <link>http://example.org/tags/todo/</link>
+    <link>https://chemcafe1234567.netlify.app/tags/todo/</link>
     <description>Recent content in todo on Chem CaFe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jul 2023 08:40:00 -0500</lastBuildDate><atom:link href="http://example.org/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jul 2023 08:40:00 -0500</lastBuildDate><atom:link href="https://chemcafe1234567.netlify.app/tags/todo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AP Chemistry 2023 FRQ 2 Solution</title>
-      <link>http://example.org/posts/20230709_apchemsolution/</link>
+      <link>https://chemcafe1234567.netlify.app/posts/20230709_apchemsolution/</link>
       <pubDate>Sun, 09 Jul 2023 08:40:00 -0500</pubDate>
       
-      <guid>http://example.org/posts/20230709_apchemsolution/</guid>
+      <guid>https://chemcafe1234567.netlify.app/posts/20230709_apchemsolution/</guid>
       <description>AP Chemistry 2023 FRQ is available at https://apcentral.collegeboard.org/media/pdf/ap23-frq-chemistry.pdf
 AP Chemistry 2023 FRQ Q2 Solution Coming soon!</description>
     </item>
     
     <item>
       <title>AP Chemistry 2023 FRQ 1 Solution</title>
-      <link>http://example.org/posts/20230708_apchemsolution/</link>
+      <link>https://chemcafe1234567.netlify.app/posts/20230708_apchemsolution/</link>
       <pubDate>Sat, 08 Jul 2023 20:00:00 -0500</pubDate>
       
-      <guid>http://example.org/posts/20230708_apchemsolution/</guid>
+      <guid>https://chemcafe1234567.netlify.app/posts/20230708_apchemsolution/</guid>
       <description>AP Chemistry 2023 FRQ is available at https://apcentral.collegeboard.org/media/pdf/ap23-frq-chemistry.pdf
 AP Chemistry 2023 FRQ Q1 Solution (a)(i) The complete electron configuration for an Mn atom in the ground state is 1s2 2s2 2p6 3s2 3p6 3d5 4s2 or [Ar] 3d5 4s2.
 (a)(ii) When manganese forms cations, electrons are lost from the 4s subshell.
@@ -32,10 +32,10 @@ AP Chemistry 2023 FRQ Q1 Solution (a)(i) The complete electron configuration for
     
     <item>
       <title>AP Chemistry Notes 1</title>
-      <link>http://example.org/posts/20230708_chemistrynotes/</link>
+      <link>https://chemcafe1234567.netlify.app/posts/20230708_chemistrynotes/</link>
       <pubDate>Sat, 08 Jul 2023 16:00:00 -0500</pubDate>
       
-      <guid>http://example.org/posts/20230708_chemistrynotes/</guid>
+      <guid>https://chemcafe1234567.netlify.app/posts/20230708_chemistrynotes/</guid>
       <description>You can find periodical table of elements here: https://ptable.com/#Properties
 Electron Configuration of the elements: https://periodictable.com/Properties/A/ElectronConfigurationString.al.html
 An example of chemistry notes, more will be coming: https://course-notes.org/chemistry/topic_notes/stoichiometry/mole_and_empirical_formulas</description>
@@ -43,20 +43,20 @@ An example of chemistry notes, more will be coming: https://course-notes.org/che
     
     <item>
       <title>AP Chemistry Study Guide</title>
-      <link>http://example.org/posts/20230708_apchemguide/</link>
+      <link>https://chemcafe1234567.netlify.app/posts/20230708_apchemguide/</link>
       <pubDate>Sat, 08 Jul 2023 15:01:58 -0500</pubDate>
       
-      <guid>http://example.org/posts/20230708_apchemguide/</guid>
+      <guid>https://chemcafe1234567.netlify.app/posts/20230708_apchemguide/</guid>
       <description>The Ultimate AP Chemistry Study Guide
 https://blog.prepscholar.com/ap-chemistry-study-guide</description>
     </item>
     
     <item>
       <title>AP Chemistry Exam Information</title>
-      <link>http://example.org/posts/20230707_apchemexam/</link>
+      <link>https://chemcafe1234567.netlify.app/posts/20230707_apchemexam/</link>
       <pubDate>Fri, 07 Jul 2023 22:01:58 -0500</pubDate>
       
-      <guid>http://example.org/posts/20230707_apchemexam/</guid>
+      <guid>https://chemcafe1234567.netlify.app/posts/20230707_apchemexam/</guid>
       <description>AP Chemistry Exam
 Exam Date Mon, May 6, 2024 | 12 PM Local
 Exam Format The AP Chemistry Exam has consistent question types, weighting, and scoring guidelines every year, so you and your students know what to expect on exam day.

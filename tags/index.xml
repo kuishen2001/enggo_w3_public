@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chem CaFe</title>
-    <link>http://example.org/tags/</link>
+    <link>https://chemcafe1234567.netlify.app/tags/</link>
     <description>Recent content in Tags on Chem CaFe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jul 2023 08:40:00 -0500</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jul 2023 08:40:00 -0500</lastBuildDate><atom:link href="https://chemcafe1234567.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primer</title>
-      <link>http://example.org/tags/primer/</link>
+      <link>https://chemcafe1234567.netlify.app/tags/primer/</link>
       <pubDate>Sun, 09 Jul 2023 08:40:00 -0500</pubDate>
       
-      <guid>http://example.org/tags/primer/</guid>
+      <guid>https://chemcafe1234567.netlify.app/tags/primer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>todo</title>
-      <link>http://example.org/tags/todo/</link>
+      <link>https://chemcafe1234567.netlify.app/tags/todo/</link>
       <pubDate>Sun, 09 Jul 2023 08:40:00 -0500</pubDate>
       
-      <guid>http://example.org/tags/todo/</guid>
+      <guid>https://chemcafe1234567.netlify.app/tags/todo/</guid>
       <description></description>
     </item>
     

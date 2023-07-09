@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Chem CaFe</title>
-    <link>http://example.org/categories/</link>
+    <link>https://chemcafe1234567.netlify.app/categories/</link>
     <description>Recent content in Categories on Chem CaFe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jul 2023 08:40:00 -0500</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jul 2023 08:40:00 -0500</lastBuildDate><atom:link href="https://chemcafe1234567.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sol</title>
-      <link>http://example.org/categories/sol/</link>
+      <link>https://chemcafe1234567.netlify.app/categories/sol/</link>
       <pubDate>Sun, 09 Jul 2023 08:40:00 -0500</pubDate>
       
-      <guid>http://example.org/categories/sol/</guid>
+      <guid>https://chemcafe1234567.netlify.app/categories/sol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Todo</title>
-      <link>http://example.org/categories/todo/</link>
+      <link>https://chemcafe1234567.netlify.app/categories/todo/</link>
       <pubDate>Sat, 08 Jul 2023 16:00:00 -0500</pubDate>
       
-      <guid>http://example.org/categories/todo/</guid>
+      <guid>https://chemcafe1234567.netlify.app/categories/todo/</guid>
       <description></description>
     </item>
     
