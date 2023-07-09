@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Todo on Chem CaFe</title>
+    <link>http://example.org/categories/todo/</link>
+    <description>Recent content in Todo on Chem CaFe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jul 2023 16:00:00 -0500</lastBuildDate><atom:link href="http://example.org/categories/todo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AP Chemistry Notes 1</title>
+      <link>http://example.org/posts/20230708_chemistrynotes/</link>
+      <pubDate>Sat, 08 Jul 2023 16:00:00 -0500</pubDate>
+      
+      <guid>http://example.org/posts/20230708_chemistrynotes/</guid>
+      <description>You can find periodical table of elements here: https://ptable.com/#Properties
+Electron Configuration of the elements: https://periodictable.com/Properties/A/ElectronConfigurationString.al.html
+An example of chemistry notes, more will be coming: https://course-notes.org/chemistry/topic_notes/stoichiometry/mole_and_empirical_formulas</description>
+    </item>
+    
+    <item>
+      <title>AP Chemistry Study Guide</title>
+      <link>http://example.org/posts/20230708_apchemguide/</link>
+      <pubDate>Sat, 08 Jul 2023 15:01:58 -0500</pubDate>
+      
+      <guid>http://example.org/posts/20230708_apchemguide/</guid>
+      <description>The Ultimate AP Chemistry Study Guide
+https://blog.prepscholar.com/ap-chemistry-study-guide</description>
+    </item>
+    
+    <item>
+      <title>AP Chemistry Exam Information</title>
+      <link>http://example.org/posts/20230707_apchemexam/</link>
+      <pubDate>Fri, 07 Jul 2023 22:01:58 -0500</pubDate>
+      
+      <guid>http://example.org/posts/20230707_apchemexam/</guid>
+      <description>AP Chemistry Exam
+Exam Date Mon, May 6, 2024 | 12 PM Local
+Exam Format The AP Chemistry Exam has consistent question types, weighting, and scoring guidelines every year, so you and your students know what to expect on exam day.
+Starting with the 2023 exam, a scientific or graphing calculator is recommended for use on both sections of the exam.
+Section I: Multiple Choice 60 Questions | 1 Hour 30 minutes | 50% of Exam Score</description>
+    </item>
+    
+  </channel>
+</rss>
